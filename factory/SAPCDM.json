@@ -1,0 +1,9 @@
+{
+	"name": "SAPCDM",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "34da5c6b-c2d0-4134-a17b-8a256efd7d28",
+		"tenantId": "c21eeb5f-f5a6-44e8-a997-124f2f7a497c"
+	}
+}
